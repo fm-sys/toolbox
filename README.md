@@ -6,4 +6,4 @@
 
 ---
 
-_I assume no liability for the availability and security of these links! _
+_I assume no liability for the availability and security of these links! Everybody is responsible for himself in what he does..._
