@@ -1,6 +1,7 @@
 # A small collection of usefull tools
 
 - [Markdown text formating](https://commonmark.org/help/)
+- [Sign counter](https://zeichenzähler.de)
 - [Edit images online (transparency, etc...)](https://www.online-image-editor.com/)
 - [jpg2pdf converter](https://smallpdf.com/de/jpg-in-pdf)
 - [Any format file converter](https://www.online-convert.com/)
