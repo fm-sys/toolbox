@@ -16,6 +16,8 @@
 - [Regex tutorial](https://danielfett.de/2006/03/20/regulaere-ausdruecke-tutorial/)
 - [Regex tester](https://regex101.com/)
 
+- [Wikimedia Attribution Generator](https://lizenzhinweisgenerator.de/)
+
 ---
 
 _I assume no liability for the availability and security of these links! Everybody is responsible for himself in what he use..._
