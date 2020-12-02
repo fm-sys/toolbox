@@ -1,4 +1,4 @@
-# A small collection of usefull tools
+# A small collection of usefull links
 
 ## 💾
 - [PDF converter](https://jpg2pdf.com/)
