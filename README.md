@@ -23,6 +23,3 @@
 - [Wikimedia Attribution Generator](https://lizenzhinweisgenerator.de/)
 - [Emoji finder](https://emojipedia.org/)
 
----
-
-_I assume no liability for the availability and security of these links! Everybody is responsible for himself in what he use..._
