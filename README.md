@@ -10,9 +10,10 @@
 - [Sign counter](https://zeichenzähler.de)
 - [Case Converter](https://convertcase.net/de/)
 - [Plagiarism Checker](https://smallseotools.com/plagiarism-checker/)
-- [Online text synonymizer ](https://smodin.me/de/Text-automatisch-in-deutscher-Sprache-umformulieren)
+- [Online text synonymizer](https://smodin.me/de/Text-automatisch-in-deutscher-Sprache-umformulieren)
 
 ## 👨‍💻
+- [Light and easy explained GIT tutorial](https://rogerdudler.github.io/git-guide/)
 - [Markdown text formating](https://commonmark.org/help/)
 - [Markdown tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
 - [Html character codes](https://dev.w3.org/html5/html-author/charref)
