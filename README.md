@@ -4,6 +4,7 @@
 - [PDF converter](https://jpg2pdf.com/)
 - [Any format file converter](https://www.online-convert.com/)
 - [Online image editor](https://www.online-image-editor.com/)
+- [Compress videos](https://www.videosmaller.com/)
 - [BPM counter](http://www.beatsperminuteonline.com/)
 
 ## 📝
