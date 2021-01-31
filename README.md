@@ -24,4 +24,5 @@
 ## 🔗
 - [Wikimedia Attribution Generator](https://lizenzhinweisgenerator.de/)
 - [Emoji finder](https://emojipedia.org/)
+- [Fancy clock wallpaper](https://fm-sys.github.io/slide-clock/)
 
