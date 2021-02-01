@@ -15,6 +15,7 @@
 
 ## 👨‍💻
 - [Light and easy explained GIT tutorial](https://rogerdudler.github.io/git-guide/)
+- [Computer scientist toolbox](https://codebeautify.org/)
 - [Markdown text formating](https://commonmark.org/help/)
 - [Markdown tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
 - [Html character codes](https://dev.w3.org/html5/html-author/charref)
