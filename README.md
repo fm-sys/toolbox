@@ -14,7 +14,7 @@
 - [Online text synonymizer](https://smodin.me/de/Text-automatisch-in-deutscher-Sprache-umformulieren)
 
 ## 👨‍💻
-- [Light and easy explained GIT tutorial](https://rogerdudler.github.io/git-guide/)
+- [Light and easy explained GIT cheat sheet](https://rogerdudler.github.io/git-guide/) and an [interactive tutorial](https://learngitbranching.js.org/)
 - [Computer scientist toolbox](https://codebeautify.org/)
 - [Markdown text formating](https://commonmark.org/help/)
 - [Markdown tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
