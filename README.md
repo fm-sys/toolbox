@@ -25,6 +25,6 @@
 
 ## 🔗
 - [Math toolbox](https://www.mathepower.com/)
-- [Emoji finder](https://emojipedia.org/)
+- [Emoji finder](https://emojipedia.org/) / [Emoji keyboard](https://emojikeyboard.top/)
 - [Fancy clock wallpaper](https://fm-sys.github.io/slide-clock/)
 - [Wikimedia Attribution Generator](https://lizenzhinweisgenerator.de/)
