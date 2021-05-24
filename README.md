@@ -25,6 +25,6 @@
 
 ## 🔗
 - [Math toolbox](https://www.mathepower.com/)
-- [Emoji finder](https://emojipedia.org/) / [Emoji keyboard](https://emojikeyboard.top/)
 - [Fancy clock wallpaper](https://fm-sys.github.io/slide-clock/)
 - [Wikimedia Attribution Generator](https://lizenzhinweisgenerator.de/)
+- [Emoji finder](https://emojipedia.org/) / [Emoji keyboard](https://emojikeyboard.top/) - DEPRECIATED: If you are using Win10, try `Win + .` instead
