@@ -28,3 +28,4 @@
 - [Fancy clock wallpaper](https://fm-sys.github.io/slide-clock/)
 - [Wikimedia Attribution Generator](https://lizenzhinweisgenerator.de/)
 - [Emoji finder](https://emojipedia.org/) / [Emoji keyboard](https://emojikeyboard.top/) - DEPRECIATED: If you are using Win10, try `Win + .` instead
+- [OSM map extractor](https://extract.bbbike.org/)
