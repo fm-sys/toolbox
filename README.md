@@ -6,7 +6,9 @@
 - [Any format file converter](https://www.online-convert.com/)
 - [Online image editor](https://www.online-image-editor.com/)
 - [Compress videos](https://www.videosmaller.com/)
+- [Compress photos](https://tinypng.com/)
 - [BPM counter](http://www.beatsperminuteonline.com/)
+- [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker/)
 
 ## 📝
 - [Sign counter](https://zeichenzähler.de)
