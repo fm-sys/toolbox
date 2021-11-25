@@ -8,6 +8,7 @@
 - [Online image editor](https://www.online-image-editor.com/)
 - [Compress videos](https://www.videosmaller.com/)
 - [Compress photos](https://tinypng.com/)
+- [file translator](https://www.onlinedoctranslator.com/de/translationform)
 - [BPM counter](http://www.beatsperminuteonline.com/)
 - [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker/)
 
