@@ -9,6 +9,9 @@
 - [Compress videos](https://www.videosmaller.com/)
 - [Compress photos](https://tinypng.com/)
 - [file translator](https://www.onlinedoctranslator.com/de/translationform)
+- [SVG Path Editor](https://aydos.com/svgedit/)
+
+## 🎼
 - [BPM counter](http://www.beatsperminuteonline.com/)
 - [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker/)
 
