@@ -10,6 +10,7 @@
 - [Compress photos](https://tinypng.com/)
 - [file translator](https://www.onlinedoctranslator.com/de/translationform)
 - [SVG Path Editor](https://aydos.com/svgedit/)
+- [SVG to Android Vector Drawable converter](https://svg2vector.com/)
 
 ## 🎼
 - [BPM counter](http://www.beatsperminuteonline.com/)
