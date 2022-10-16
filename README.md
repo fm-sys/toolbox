@@ -11,6 +11,7 @@
 - [file translator](https://www.onlinedoctranslator.com/de/translationform)
 - [SVG Path Editor](https://aydos.com/svgedit/)
 - [SVG to Android Vector Drawable converter](https://svg2vector.com/)
+- [GIF resizer](https://redketchup.io/gif-resizer)
 
 ## 🎼
 - [BPM counter](http://www.beatsperminuteonline.com/)
